@@ -1,0 +1,12 @@
+"#1 PSG                      "	{"players": 2, "goals": 43, "assists": 22, "contributions_per_minute": "0.0144", "goals_per_minute": "0.0096"}
+"#2 Tottenham                "	{"players": 1, "goals": 20, "assists": 11, "contributions_per_minute": "0.0129", "goals_per_minute": "0.0083"}
+"#3 Borussia Dortmund        "	{"players": 2, "goals": 28, "assists": 8, "contributions_per_minute": "0.0089", "goals_per_minute": "0.0069"}
+"#4 Barcelona                "	{"players": 4, "goals": 40, "assists": 27, "contributions_per_minute": "0.0073", "goals_per_minute": "0.0044"}
+"#5 Bayern Munich            "	{"players": 3, "goals": 39, "assists": 20, "contributions_per_minute": "0.0069", "goals_per_minute": "0.0046"}
+"#6 Juventus                 "	{"players": 4, "goals": 43, "assists": 17, "contributions_per_minute": "0.0067", "goals_per_minute": "0.0048"}
+"#7 Liverpool                "	{"players": 4, "goals": 45, "assists": 18, "contributions_per_minute": "0.0062", "goals_per_minute": "0.0044"}
+"#8 Manchester City          "	{"players": 4, "goals": 26, "assists": 27, "contributions_per_minute": "0.0059", "goals_per_minute": "0.0029"}
+"#9 Real Madrid              "	{"players": 6, "goals": 36, "assists": 32, "contributions_per_minute": "0.0052", "goals_per_minute": "0.0028"}
+"#10 Atletico Madrid          "	{"players": 2, "goals": 19, "assists": 5, "contributions_per_minute": "0.0049", "goals_per_minute": "0.0039"}
+"#11 Chelsea                  "	{"players": 2, "goals": 4, "assists": 5, "contributions_per_minute": "0.0019", "goals_per_minute": "0.0009"}
+"#12 Manchester United        "	{"players": 1, "goals": 2, "assists": 0, "contributions_per_minute": "0.0009", "goals_per_minute": "0.0009"}

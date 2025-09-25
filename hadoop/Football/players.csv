@@ -1,0 +1,36 @@
+name,team,position,goals,assists,minutes_played,yellow_cards,red_cards
+Lionel Messi,Barcelona,Forward,30,15,2700,3,0
+Cristiano Ronaldo,Juventus,Forward,28,8,2850,5,1
+Kylian Mbappe,PSG,Forward,25,12,2400,2,0
+Neymar Jr,PSG,Forward,18,10,2100,4,1
+Robert Lewandowski,Bayern Munich,Forward,35,6,2900,1,0
+Kevin De Bruyne,Manchester City,Midfielder,8,20,2650,6,0
+Luka Modric,Real Madrid,Midfielder,3,12,2500,4,0
+N'Golo Kante,Chelsea,Midfielder,2,4,2300,5,0
+Sergio Busquets,Barcelona,Midfielder,1,8,2600,7,0
+Joshua Kimmich,Bayern Munich,Midfielder,4,14,2750,3,0
+Virgil van Dijk,Liverpool,Defender,5,2,2800,2,0
+Sergio Ramos,Real Madrid,Defender,3,1,2450,8,2
+Raphael Varane,Manchester United,Defender,2,0,2200,1,0
+Giorgio Chiellini,Juventus,Defender,1,1,1950,4,1
+Marcelo,Real Madrid,Defender,4,8,2100,6,0
+Manuel Neuer,Bayern Munich,Goalkeeper,0,0,2880,1,0
+Jan Oblak,Atletico Madrid,Goalkeeper,0,0,2700,0,0
+Alisson Becker,Liverpool,Goalkeeper,0,1,2650,1,0
+Thibaut Courtois,Real Madrid,Goalkeeper,0,0,2500,2,0
+Ederson,Manchester City,Goalkeeper,0,2,2600,1,0
+Karim Benzema,Real Madrid,Forward,22,9,2300,3,0
+Erling Haaland,Borussia Dortmund,Forward,27,5,1800,2,0
+Harry Kane,Tottenham,Forward,20,11,2400,1,0
+Mohamed Salah,Liverpool,Forward,24,8,2550,3,1
+Sadio Mane,Liverpool,Forward,16,7,2200,4,0
+Sergio Aguero,Manchester City,Forward,15,3,1600,2,1
+Eden Hazard,Real Madrid,Forward,4,2,1200,1,0
+Paulo Dybala,Juventus,Forward,12,6,1900,3,0
+Antoine Griezmann,Barcelona,Forward,8,4,1850,2,0
+Luis Suarez,Atletico Madrid,Forward,19,5,2150,4,1
+Thiago Silva,Chelsea,Defender,2,1,2400,3,0
+Aymeric Laporte,Manchester City,Defender,3,2,2100,4,0
+Mats Hummels,Borussia Dortmund,Defender,1,3,2250,5,1
+Leonardo Bonucci,Juventus,Defender,2,2,2300,6,0
+Gerard Pique,Barcelona,Defender,1,0,2000,5,1
