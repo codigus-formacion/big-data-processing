@@ -1,0 +1,2 @@
+pyspark==4.0.1
+jupyterlab==4.4.9
