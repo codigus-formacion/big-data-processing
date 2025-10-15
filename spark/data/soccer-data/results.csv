@@ -1,0 +1,6 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
+2023-10-01,FC Barcelona,Athletic Bilbao,2,0,League A,Barcelona,Spain,FALSE
+2023-10-01,Real Madrid,Atletico Madrid,1,2,League A,Madrid,Spain,FALSE
+2023-10-02,Boca Juniors,River Plate,1,1,Cup B,Buenos Aires,Argentina,FALSE
+2023-10-02,Manchester Utd,Liverpool,3,1,League A,Manchester,England,FALSE
+2023-10-03,Paris SG,Olympique Lyonnais,2,1,League A,Paris,France,FALSE
