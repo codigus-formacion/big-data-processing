@@ -104,12 +104,9 @@ class MRTeamStatistics(MRJob):
         """
         teams = list(team_stats)
         
-        # Ordenar por contribución por minuto (goles + asistencias por minuto)
-        best_team = max(teams, key=lambda x: x['contributions_per_minute'])
-
-        # Mostrar todas las estadísticas ordenadas
         sorted_teams = sorted(teams, key=lambda x: x['contributions_per_minute'], reverse=True)
 
+        # Mostrar todas las estadísticas ordenadas
         for i, team in enumerate(sorted_teams, 1):
             yield (f"#{i} {team['team']:<25}", {
                 'players': team['players'],
