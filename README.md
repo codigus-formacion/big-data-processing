@@ -1,8 +1,17 @@
 # Big Data Processing I
 
-Repositorio de la asignatura Big Data Processing I del Master Universitario en Análisis  Deportivo (MUSA)
+Este repositorio contiene los ejemplos y ejercicios utilizados en la asignatura **Big Data Processing I**, perteneciente al **Máster Universitario en Análisis Deportivo (MUSA)**.  
 
-Contenido:
-- hadoop/: Contiene ejemplos y ejercicios relacionados con Hadoop.
-- spark/: Contiene ejemplos y ejercicios relacionados con Apache Spark.
-- influxdb/: Contiene ejemplos y ejercicios relacionados con InfluxDB.
+El objetivo es ofrecer material práctico que permita familiarizarse con diferentes tecnologías para el procesamiento y análisis de grandes volúmenes de datos.
+
+---
+
+## 📂 Contenido
+
+- **`hadoop/`** — Ejemplos y ejercicios relacionados con **Hadoop**.  
+- **`spark/`** — Ejemplos y ejercicios relacionados con **Apache Spark**.  
+- **`influxdb/`** — Ejemplos y ejercicios relacionados con **InfluxDB**, base de datos orientada a series temporales.
+
+---
+
+💡 **Nota:** Este material está pensado como apoyo para el aprendizaje práctico de herramientas y tecnologías de procesamiento de datos masivos.
