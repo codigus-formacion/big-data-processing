@@ -10,19 +10,19 @@ El objetivo es ofrecer material práctico que permita familiarizarse con diferen
 
 ## 📂 Contenido
 
-- **`hadoop/`** — Ejemplos y ejercicios relacionados con **Hadoop**.  
-- **`spark/`** — Ejemplos y ejercicios relacionados con **Apache Spark**.  
-- **`influxdb/`** — Ejemplos y ejercicios relacionados con **InfluxDB**, base de datos orientada a series temporales.
+- **`spark/`** — Ejemplos y ejercicios relacionados con **Apache Spark** (RDDs, DataFrames, operaciones sobre DataFrames y ejercicios con datos de fútbol).  
+- **`databricks/`** — Ejemplos con **Databricks**: consultas SQL, consultas desde Python (en el workspace y en local), volúmenes, trabajos programados (jobs) y vistas para dashboards.  
+- **`influxdb/`** — Ejemplos y ejercicios relacionados con **InfluxDB**, base de datos orientada a series temporales (ejemplos básicos y ejercicios con enunciado y solución).
 
 ---
 
 💡 **Nota:** Este material está pensado como apoyo para el aprendizaje práctico de herramientas y tecnologías de procesamiento de datos masivos.
 
-Repositorio Software Heritage: https://archive.softwareheritage.org/swh:1:dir:a0974f23c31e1279864a1e0b38c577e546410856
+Repositorio Software Heritage: https://archive.softwareheritage.org/swh:1:dir:a0974f23c31e1279864a1e0b38c577e546410856 (Versión archivada del repositorio en Software Heritage de 2025)
 
 Repositorio GitHub: https://github.com/codigus-formacion/big-data-processing
 
->©2025 Micael Gallego Carrillo, Francisco Gortázar Bellas, Michel Maes Bermejo, Óscar Soto Sánchez e Iván Chicano Capelo
+>©2026 Micael Gallego Carrillo, Francisco Gortázar Bellas, Michel Maes Bermejo, Óscar Soto Sánchez e Iván Chicano Capelo
 >Algunos derechos reservados  
 >Este documento se distribuye bajo la licencia  
 >“Atribución-CompartirIgual 4.0 Internacional” de Creative Commons, disponible en  
